@@ -115,6 +115,7 @@ footer{
   display: flex;
   justify-content: space-between;
   margin: 20px 6vw;
+  padding-top: 50px
 }
 .cleft{
   color: #fff;
